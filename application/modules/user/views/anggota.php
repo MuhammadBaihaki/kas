@@ -37,7 +37,7 @@
             <table class="table table-bordered">
                 <tr>
                     <th>No</th>
-                    <th>Nama</th>
+                    <th>Nama Anggota</th>
                     <th>Jabatan</th>
                     <th>Alamat</th>
                     <th>No. Telepon</th>
